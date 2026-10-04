@@ -1,4 +1,5 @@
 function login() {
-console.log("Inicio de sesión");
+console.log("Inicio de sesión Cristian");
+
 }
 
